@@ -1,0 +1,395 @@
+RAW DATA:
+
+
+RAW DATA:
+{"matricula":"admin","password":"12345"}
+
+DECODED:
+Array
+(
+    [matricula] => admin
+    [password] => 12345
+)
+
+
+DB RESULT:
+Array
+(
+    [id] => 6
+    [matricula] => admin
+    [password] => $2y$10$QDYfXKBiK97wG7PVqfV53OBTqOE2suYNYgbexYUSvwB8LU3P6hRZm
+    [role] => ROLE_ADMIN
+    [username] => 
+    [semester] => 
+    [group_name] => 
+)
+
+
+RAW DATA:
+
+
+RAW DATA:
+{"matricula":"A2029","password":"12345"}
+
+DECODED:
+Array
+(
+    [matricula] => A2029
+    [password] => 12345
+)
+
+
+DB RESULT:
+
+
+RAW DATA:
+
+
+RAW DATA:
+{"matricula":"admin","password":"12345"}
+
+DECODED:
+Array
+(
+    [matricula] => admin
+    [password] => 12345
+)
+
+
+DB RESULT:
+Array
+(
+    [id] => 6
+    [matricula] => admin
+    [password] => $2y$10$QDYfXKBiK97wG7PVqfV53OBTqOE2suYNYgbexYUSvwB8LU3P6hRZm
+    [role] => ROLE_ADMIN
+    [username] => 
+    [semester] => 
+    [group_name] => 
+)
+
+
+RAW DATA:
+
+
+RAW DATA:
+{"matricula":"admin2","password":"12345"}
+
+DECODED:
+Array
+(
+    [matricula] => admin2
+    [password] => 12345
+)
+
+
+DB RESULT:
+Array
+(
+    [id] => 7
+    [matricula] => admin2
+    [password] => $2y$10$y6DZT3N9D8o/Jah7by6u6.0xQHgK9QH.7WxFkzATpqAiM5hMz60fi
+    [role] => ROLE_ADMIN
+    [username] => Administrador
+    [semester] => 
+    [group_name] => 
+)
+
+
+RAW DATA:
+
+
+RAW DATA:
+{"matricula":"admin2","password":"12345"}
+
+DECODED:
+Array
+(
+    [matricula] => admin2
+    [password] => 12345
+)
+
+
+DB RESULT:
+Array
+(
+    [id] => 7
+    [matricula] => admin2
+    [password] => $2y$10$y6DZT3N9D8o/Jah7by6u6.0xQHgK9QH.7WxFkzATpqAiM5hMz60fi
+    [role] => ROLE_ADMIN
+    [username] => Administrador
+    [semester] => 
+    [group_name] => 
+)
+
+
+RAW DATA:
+{"matricula":"admin2","password":"12345"}
+
+DECODED:
+Array
+(
+    [matricula] => admin2
+    [password] => 12345
+)
+
+
+DB RESULT:
+Array
+(
+    [id] => 7
+    [matricula] => admin2
+    [password] => $2y$10$y6DZT3N9D8o/Jah7by6u6.0xQHgK9QH.7WxFkzATpqAiM5hMz60fi
+    [role] => ROLE_ADMIN
+    [username] => Administrador
+    [semester] => 
+    [group_name] => 
+)
+
+
+RAW DATA:
+{"matricula":"admin2","password":"12345"}
+
+DECODED:
+Array
+(
+    [matricula] => admin2
+    [password] => 12345
+)
+
+
+DB RESULT:
+Array
+(
+    [id] => 7
+    [matricula] => admin2
+    [password] => $2y$10$y6DZT3N9D8o/Jah7by6u6.0xQHgK9QH.7WxFkzATpqAiM5hMz60fi
+    [role] => ROLE_ADMIN
+    [username] => Administrador
+    [semester] => 
+    [group_name] => 
+)
+
+
+RAW DATA:
+{"matricula":"admin2","password":"12345"}
+
+DECODED:
+Array
+(
+    [matricula] => admin2
+    [password] => 12345
+)
+
+
+DB RESULT:
+Array
+(
+    [id] => 7
+    [matricula] => admin2
+    [password] => $2y$10$y6DZT3N9D8o/Jah7by6u6.0xQHgK9QH.7WxFkzATpqAiM5hMz60fi
+    [role] => ROLE_ADMIN
+    [username] => Administrador
+    [semester] => 
+    [group_name] => 
+)
+
+
+RAW DATA:
+{"matricula":"admin2","password":"12345"}
+
+DECODED:
+Array
+(
+    [matricula] => admin2
+    [password] => 12345
+)
+
+
+DB RESULT:
+Array
+(
+    [id] => 7
+    [matricula] => admin2
+    [password] => $2y$10$y6DZT3N9D8o/Jah7by6u6.0xQHgK9QH.7WxFkzATpqAiM5hMz60fi
+    [role] => ROLE_ADMIN
+    [username] => Administrador
+    [semester] => 
+    [group_name] => 
+)
+
+
+RAW DATA:
+{"matricula":"admin2","password":"12345"}
+
+DECODED:
+Array
+(
+    [matricula] => admin2
+    [password] => 12345
+)
+
+
+DB RESULT:
+Array
+(
+    [id] => 7
+    [matricula] => admin2
+    [password] => $2y$10$y6DZT3N9D8o/Jah7by6u6.0xQHgK9QH.7WxFkzATpqAiM5hMz60fi
+    [role] => ROLE_ADMIN
+    [username] => Administrador
+    [semester] => 
+    [group_name] => 
+)
+
+
+RAW DATA:
+
+
+RAW DATA:
+
+
+RAW DATA:
+{"matricula":"admin2","password":"12345"}
+
+DECODED:
+Array
+(
+    [matricula] => admin2
+    [password] => 12345
+)
+
+
+DB RESULT:
+Array
+(
+    [id] => 8
+    [matricula] => admin2
+    [password] => $2y$10$ZkJ9aDyyddmKZ4pbxHWBFeEE9/eg22o0fQmO5lUzCFO9bN8P6o1he
+    [role] => ROLE_ADMIN
+    [username] => Administrador
+    [semester] => 
+    [group_name] => 
+)
+
+
+RAW DATA:
+{"matricula":"admin2","password":"12345"}
+
+DECODED:
+Array
+(
+    [matricula] => admin2
+    [password] => 12345
+)
+
+
+DB RESULT:
+Array
+(
+    [id] => 8
+    [matricula] => admin2
+    [password] => $2y$10$ZkJ9aDyyddmKZ4pbxHWBFeEE9/eg22o0fQmO5lUzCFO9bN8P6o1he
+    [role] => ROLE_ADMIN
+    [username] => Administrador
+    [semester] => 
+    [group_name] => 
+)
+
+
+RAW DATA:
+{"matricula":"admin2","password":"12345"}
+
+DECODED:
+Array
+(
+    [matricula] => admin2
+    [password] => 12345
+)
+
+
+DB RESULT:
+Array
+(
+    [id] => 8
+    [matricula] => admin2
+    [password] => $2y$10$ZkJ9aDyyddmKZ4pbxHWBFeEE9/eg22o0fQmO5lUzCFO9bN8P6o1he
+    [role] => ROLE_ADMIN
+    [username] => Administrador
+    [semester] => 
+    [group_name] => 
+)
+
+
+RAW DATA:
+{"matricula":"admin2","password":"12345"}
+
+DECODED:
+Array
+(
+    [matricula] => admin2
+    [password] => 12345
+)
+
+
+DB RESULT:
+Array
+(
+    [id] => 8
+    [matricula] => admin2
+    [password] => $2y$10$ZkJ9aDyyddmKZ4pbxHWBFeEE9/eg22o0fQmO5lUzCFO9bN8P6o1he
+    [role] => ROLE_ADMIN
+    [username] => Administrador
+    [semester] => 
+    [group_name] => 
+)
+
+
+RAW DATA:
+{"matricula":"admin2","password":"12345"}
+
+DECODED:
+Array
+(
+    [matricula] => admin2
+    [password] => 12345
+)
+
+
+DB RESULT:
+Array
+(
+    [id] => 8
+    [matricula] => admin2
+    [password] => $2y$10$ZkJ9aDyyddmKZ4pbxHWBFeEE9/eg22o0fQmO5lUzCFO9bN8P6o1he
+    [role] => ROLE_ADMIN
+    [username] => Administrador
+    [semester] => 
+    [group_name] => 
+)
+
+
+RAW DATA:
+{"matricula":"admin2","password":"12345"}
+
+DECODED:
+Array
+(
+    [matricula] => admin2
+    [password] => 12345
+)
+
+
+DB RESULT:
+Array
+(
+    [id] => 8
+    [matricula] => admin2
+    [password] => $2y$10$ZkJ9aDyyddmKZ4pbxHWBFeEE9/eg22o0fQmO5lUzCFO9bN8P6o1he
+    [role] => ROLE_ADMIN
+    [username] => Administrador
+    [semester] => 
+    [group_name] => 
+)
+
+

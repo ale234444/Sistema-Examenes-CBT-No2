@@ -1,0 +1,4 @@
+2025-11-27 20:12:09 RAW: {"titulo":"HBH","descripcion":" M","teacher_id":2,"grade_id":"1","group_id":"1 de Administración","time_limit":"20","enabled":1,"publish_date":"2025-11-27 20:12:08"}
+PARSED: {"titulo":"HBH","descripcion":" M","enabled":1,"publish_date":"2025-11-27 20:12:08","teacher_id":2,"grade_id":1,"group_id":1,"career":null,"time_limit":20}
+2025-11-27 20:12:56 RAW: {"titulo":"B ","descripcion":"N N","teacher_id":2,"grade_id":"1","group_id":"1 de Administración","time_limit":"2","enabled":1,"publish_date":"2025-11-27 20:12:56"}
+PARSED: {"titulo":"B ","descripcion":"N N","enabled":1,"publish_date":"2025-11-27 20:12:56","teacher_id":2,"grade_id":1,"group_id":1,"career":null,"time_limit":2}

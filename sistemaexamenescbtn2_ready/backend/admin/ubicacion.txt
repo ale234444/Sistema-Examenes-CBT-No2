@@ -1,0 +1,3 @@
+FILE: C:\AppServ\www\sistemaexamenescbtn2_ready1\sistemaexamenescbtn2_ready\backend\admin\create_user.php
+REQUEST_URI: /sistemaexamenescbtn2_ready1/sistemaexamenescbtn2_ready/backend/admin/create_user.php
+

@@ -1,0 +1,188 @@
+INPUT:
+
+INPUT:
+{"username":"Aaron","matricula":"A2026","password":"12345","role":"ROLE_TEACHER","grupos_asignados":["1 de Administración","3 de Informática"]}
+INPUT:
+
+INPUT:
+{"username":"Aron","matricula":"A2025","password":"12345","role":"ROLE_TEACHER","grupos_asignados":["1 de Informática","3 de Administración"]}
+INPUT:
+
+INPUT:
+{"username":"Noe","matricula":"N2025","password":"12345","role":"ROLE_TEACHER","grupos_asignados":["1 de Administración","3 de Administración"]}
+INPUT:
+
+INPUT:
+
+INPUT:
+{"username":"Noe","matricula":"N2025","password":"12345","role":"ROLE_TEACHER","grupos_asignados":["1 de Administración","3 de Administración"]}
+INPUT:
+
+INPUT:
+{"username":"Noe","matricula":"N2025","password":"12345","role":"ROLE_TEACHER","grupos_asignados":["3 de Administración","2 de Informática"]}
+INPUT:
+
+INPUT:
+
+INPUT:
+{"username":"Noe","matricula":"2025","password":"12345","role":"ROLE_TEACHER","grupos_asignados":["2 de Administración","1 de Informática"]}
+INPUT:
+
+INPUT:
+{"username":"Noe","matricula":"N2025","password":"12345","role":"ROLE_TEACHER","grupos_asignados":["3 de Administración"]}
+INPUT:
+
+INPUT:
+{"username":"Noe","matricula":"N2025","password":"12345","role":"ROLE_TEACHER","grupos_asignados":["3 de Administración"]}
+INPUT:
+
+INPUT:
+{"username":"Noe","matricula":"N2025","password":"12345","role":"ROLE_TEACHER","grupos_asignados":["3 de Administración"]}
+INPUT:
+
+INPUT:
+{"username":"aa","matricula":"A22","password":"12345","role":"ROLE_TEACHER","grupos_asignados":["1 de Administración"]}
+INPUT:
+
+INPUT:
+{"username":"ddd","matricula":"D222","password":"12345","role":"ROLE_TEACHER","grupos_asignados":["2 de Administración","1 de Informática"]}
+INTENTO DE INSERCIÓN:
+username=Jesica | matricula=J2025 | role=ROLE_STUDENT | semester=2 | group_name=2 de Administración
+INTENTO DE INSERCIÓN:
+username=Jesica | matricula=J2026 | role=ROLE_STUDENT | semester=2 | group_name=2 de Administración
+INTENTO DE INSERCIÓN:
+username=Perez | matricula=P2026 | role=ROLE_STUDENT | semester=2 | group_name=2 de Administración
+INTENTO DE INSERCIÓN:
+username=Lidia | matricula=L20260 | role=ROLE_TEACHER | semester= | group_name=
+INTENTO DE INSERCIÓN:
+username=Isidro | matricula=I2026 | role=ROLE_STUDENT | semester=2 | group_name=2 de Administración
+INTENTO DE INSERCIÓN:
+username=Yanet | matricula=Y2025 | role=ROLE_STUDENT | semester=1 | group_name=1 de Administración
+INTENTO DE INSERCIÓN:
+username=Misael | matricula=M2026 | role=ROLE_STUDENT | semester=1 | group_name=1 de Administración
+INTENTO DE INSERCIÓN:
+username=Misael | matricula=M2029 | role=ROLE_STUDENT | semester=1 | group_name=1 de Administración
+INTENTO DE INSERCIÓN:
+username=Alberto | matricula=AL2025 | role=ROLE_STUDENT | semester=1 | group_name=1 de Administración
+INTENTO DE INSERCIÓN:
+username=Aaron | matricula=A2026 | role=ROLE_STUDENT | semester=3 | group_name=3 de Administración
+INTENTO DE INSERCIÓN:
+username=Jualia | matricula=J2020 | role=ROLE_STUDENT | semester=2 | group_name=2 de Administración
+INTENTO DE INSERCIÓN:
+username=Marina | matricula=M2026 | role=ROLE_STUDENT | semester=2 | group_name=2 de Administración
+INTENTO DE INSERCIÓN:
+username=Marina | matricula=M2025 | role=ROLE_STUDENT | semester=2 | group_name=2 de Administración
+INTENTO DE INSERCIÓN:
+username=Marina | matricula=M2025 | role=ROLE_STUDENT | semester=2 | group_name=2 de Administración
+INTENTO DE INSERCIÓN:
+username=Marina | matricula=M2020 | role=ROLE_STUDENT | semester=2 | group_name=2 de Administración
+INTENTO DE INSERCIÓN:
+username=Erika | matricula=E2020 | role=ROLE_STUDENT | semester=2 | group_name=2 de Administración
+=============================
+INTENTO DE INSERCIÓN:
+username=Lourdes | matricula=L2026 | role=ROLE_STUDENT | semester=1 | group_name=1 de Administración
+❌ ERROR SQL: Duplicate entry 'L2026' for key 'UKactt97vp4uwf55js4s2b7xgm9'
+=============================
+INTENTO DE INSERCIÓN:
+username=Lourdes | matricula=L2020 | role=ROLE_STUDENT | semester=1 | group_name=1 de Administración
+✅ INSERCIÓN EXITOSA
+=============================
+INTENTO DE INSERCIÓN:
+username=Perez | matricula=P2020 | role=ROLE_STUDENT | semester=2 | group_name=2 de Administración
+✅ INSERCIÓN EXITOSA
+
+=============================
+INTENTO DE INSERCIÓN:
+username=Cristian | matricula=C2026 | role=ROLE_STUDENT | semester=2 | group_name=2 de Administración
+✅ INSERCIÓN EXITOSA
+
+=============================
+INTENTO DE INSERCIÓN:
+username=Ana Laura | matricula=AL20 | role=ROLE_STUDENT | semester=2 | group_name=2 de Administración
+✅ INSERCIÓN EXITOSA
+INCLUDE INTENTO: C:\AppServ\www\sistemaexamenescbtn2_ready1\sistemaexamenescbtn2_ready\backend\admin/../../db.php
+RAW INPUT: 
+ERROR: JSON inválido
+
+=============================
+INTENTO DE INSERCIÓN:
+username=Alondra | matricula=A123 | role=ROLE_STUDENT | semester=3 | group_name=3 de Administración
+✅ INSERCIÓN EXITOSA
+
+=============================
+INTENTO DE INSERCIÓN:
+username=Alicia | matricula=A1234 | role=ROLE_STUDENT | semester=2 | group_name=2 de Administración
+✅ INSERCIÓN EXITOSA
+
+=============================
+INTENTO DE INSERCIÓN:
+username=Antonia | matricula=A2021 | role=ROLE_STUDENT | semester=1 | group_name=1 de Administración
+✅ INSERCIÓN EXITOSA
+
+=============================
+INTENTO DE INSERCIÓN:
+username=Antonia | matricula=A2021 | role=ROLE_STUDENT | semester=1 | group_name=1 de Administración
+❌ ERROR SQL: Duplicate entry 'A2021' for key 'UKactt97vp4uwf55js4s2b7xgm9'
+
+=============================
+INTENTO DE INSERCIÓN:
+username=Antonia | matricula=A2021 | role=ROLE_STUDENT | semester=1 | group_name=1 de Administración
+❌ ERROR SQL: Duplicate entry 'A2021' for key 'UKactt97vp4uwf55js4s2b7xgm9'
+
+=============================
+INTENTO DE INSERCIÓN:
+username=Antonia | matricula=A2021 | role=ROLE_STUDENT | semester=1 | group_name=1 de Administración
+❌ ERROR SQL: Duplicate entry 'A2021' for key 'UKactt97vp4uwf55js4s2b7xgm9'
+
+=============================
+INTENTO DE INSERCIÓN:
+username=Antonia | matricula=A2021 | role=ROLE_STUDENT | semester=1 | group_name=1 de Administración
+❌ ERROR SQL: Duplicate entry 'A2021' for key 'UKactt97vp4uwf55js4s2b7xgm9'
+
+=============================
+INTENTO DE INSERCIÓN:
+username=Antonia | matricula=A2021 | role=ROLE_STUDENT | semester=1 | group_name=1 de Administración
+❌ ERROR SQL: Duplicate entry 'A2021' for key 'UKactt97vp4uwf55js4s2b7xgm9'
+
+=============================
+INTENTO DE INSERCIÓN:
+username=Antonia | matricula=A2021 | role=ROLE_STUDENT | semester=1 | group_name=1 de Administración
+❌ ERROR SQL: Duplicate entry 'A2021' for key 'UKactt97vp4uwf55js4s2b7xgm9'
+
+=============================
+INTENTO DE INSERCIÓN:
+username=Antonia | matricula=A2021 | role=ROLE_STUDENT | semester=1 | group_name=1 de Administración
+❌ ERROR SQL: Duplicate entry 'A2021' for key 'UKactt97vp4uwf55js4s2b7xgm9'
+
+=============================
+INTENTO DE INSERCIÓN:
+username=Antonia | matricula=A2021 | role=ROLE_STUDENT | semester=1 | group_name=1 de Administración
+❌ ERROR SQL: Duplicate entry 'A2021' for key 'UKactt97vp4uwf55js4s2b7xgm9'
+
+=============================
+INTENTO DE INSERCIÓN:
+username=Antonia | matricula=A2021 | role=ROLE_STUDENT | semester=1 | group_name=1 de Administración
+❌ ERROR SQL: Duplicate entry 'A2021' for key 'UKactt97vp4uwf55js4s2b7xgm9'
+
+=============================
+INTENTO DE INSERCIÓN:
+username=Antonia | matricula=A2021 | role=ROLE_STUDENT | semester=1 | group_name=1 de Administración
+❌ ERROR SQL: Duplicate entry 'A2021' for key 'UKactt97vp4uwf55js4s2b7xgm9'
+
+=============================
+INTENTO DE INSERCIÓN:
+username=Antonia | matricula=A2021 | role=ROLE_STUDENT | semester=1 | group_name=1 de Administración
+❌ ERROR SQL: Duplicate entry 'A2021' for key 'UKactt97vp4uwf55js4s2b7xgm9'
+
+=============================
+INTENTO DE INSERCIÓN:
+username=Antonia | matricula=A2021 | role=ROLE_STUDENT | semester=1 | group_name=1 de Administración
+❌ ERROR SQL: Duplicate entry 'A2021' for key 'UKactt97vp4uwf55js4s2b7xgm9'
+=============================
+INTENTO DE INSERCIÓN:
+username=Antonia | matricula=A2021 | role=ROLE_STUDENT | semester=1 | group_name=1 de Administración
+❌ ERROR SQL: Duplicate entry 'A2021' for key 'UKactt97vp4uwf55js4s2b7xgm9'
+=============================
+INTENTO DE INSERCIÓN:
+username=Antonia | matricula=A2029 | role=ROLE_STUDENT | semester=1 | group_name=1 de Administración
+✅ INSERCIÓN EXITOSA
